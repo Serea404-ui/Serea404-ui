@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE...;WELCOME+TO+ZABDAN+AI;SOFTWARE+DEVELOPER;GAME+MODDER;FUTURE+FULLSTACK+ENGINEER" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=SYSTEM+ONLINE...;WELCOME+TO+ZABDAN+GITHUB;WEB+DEVELOPER;FUTURE+FULLSTACK+ENGINEER" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0047FF&height=180&section=header&text=ZABDAN&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
@@ -25,11 +25,11 @@ Status    : Building The Future...
 
 # ⚡ System Status
 
-![](https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Serea404-ui&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Serea404-ui&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Serea404-ui&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -46,7 +46,7 @@ Status    : Building The Future...
 # 🚀 Current Mission
 
 - 🌐 Web Development
-- 🤖 Ai basic
+- 🤖 Basic Ai
 - 💻 Python Programming
 - 📚 Learning Full Stack
 
