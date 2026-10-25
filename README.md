@@ -8,7 +8,7 @@
 
 ---
 
-# 🤖 AI PROFILE
+# 👨 MY PROFILE
 
 ```yaml
 Name      : Zabdan
