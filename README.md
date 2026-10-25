@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=HELLO+WORLD;WELCOME+TO+ZABDAN+GITHUB;WEB+DEVELOPER;FUTURE+FULLSTACK+ENGINEER" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0047FF&height=180&section=header&text=ZABDAN&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://i.imgur.com/CglW1iO.png"/>
 
 </div>
 
