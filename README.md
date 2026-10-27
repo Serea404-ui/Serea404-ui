@@ -12,7 +12,7 @@
 
 ```yaml
 Name      : Zabdan
-Age       : 15
+Age       : 15 yo
 Country   : Indonesia
 Role      : Student
 Learning  : Python | HTML | CSS | JavaScript
