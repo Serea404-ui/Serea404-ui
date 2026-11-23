@@ -11,7 +11,7 @@
 # 👨 MY PROFILE
 
 ```yaml
-Name      : Zabdan
+Name      : Zabdan Bhanu Wandana
 Age       : 15 yo
 Country   : Indonesia
 Role      : Student
